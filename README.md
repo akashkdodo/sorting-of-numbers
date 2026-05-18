@@ -22,17 +22,19 @@ To write and execute an Assembly Language Program for sorting data in Ascending 
 
 ## Program (Ascending order)
 
-```asm
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c8934a1d-1268-4544-a9b4-df24a9910222" />
 
 
 
 
-```
+
+
 ## OUTPUT(Ascending order)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a8bc5e3a-6618-435e-a0d2-446f43ce176d" />
 
 
 
----
+
 
 ## Algorithm(Descending order)
 1. Initialize the register **R7** with count.  
@@ -48,17 +50,19 @@ To write and execute an Assembly Language Program for sorting data in Ascending 
 ---
 ## Program (Descending order)
 
-```asm
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d01ddfa1-0997-4b66-bb63-0a8aee54a281" />
 
 
 
 
-```
+
+
 ## OUTPUT(Descending order)
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/5241a5e0-a73c-46d3-be55-b70e4d181a90" />
 
 
----
+
 ## RESULT:
 Thus the sorting of given data was done using 8051 keil software.
 
